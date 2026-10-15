@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: black;
+}
+
+footer {
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    background-color: #1f1c1c;
+}
+.type1{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+}
+.plot{
+    margin: auto;
+  }
+    #statistik{
+        position: sticky;
+        top: 40px;
+    }
